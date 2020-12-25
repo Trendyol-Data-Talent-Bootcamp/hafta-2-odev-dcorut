@@ -1,5 +1,7 @@
 # Soru 2:
 
+Damla Cörüt
+
 Kısmen yapabildim :(
 
 ```

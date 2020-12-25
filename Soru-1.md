@@ -1,5 +1,7 @@
 # Soru 1:
 
+Damla Cörüt
+
 ```
 select * from(
 with gold_medals as
